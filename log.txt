@@ -1,0 +1,8 @@
+S:10.0
+Initial guess : 1.0
+Square-root ~ 3.162277665175675
+Iteration 1:5.5
+Iteration 2:3.659090909090909
+Iteration 3:3.196005081874647
+Iteration 4:3.16245562280389
+Iteration 5:3.162277665175675
